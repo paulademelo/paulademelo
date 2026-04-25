@@ -11,9 +11,9 @@
 
 ## Sobre mim
 - ⏭️ **Desenvolvedora Android Sr.**
-- 👩‍🎓 **Formanda no curso de Desenvolvimento de Software na** 🏫 **FATEC**
+- 👩‍🎓 **Estudando Pós-graduação em Programação para Dispositivos Móveis na Universidade Tecnológica Federal do Paraná** 🏫 **FATEC**
+- 👩‍🎓 **Formada no curso de Desenvolvimento de Software na** 🏫 **FATEC**
 - 📚 Apaixonada por leitura
-- 🐱 Mãe orgulhosa de duas gatas
 
 ## Linguagens e Tecnologias
 - 📱 **Android:** `.kt` `.java`
